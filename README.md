@@ -10,10 +10,10 @@ A website that lets users maintain a to-do list and perform all the relevant tas
 7. Users can also upload his/her profile photo and can see it on the dashboard.
 8. Logout.
 # Learnings:
-CRUD Operation in PHP
-Sessions in PHP
-Creating and maintaining SQL Database
-Dealing with SQL tables
+1. CRUD Operation in PHP
+2. Sessions in PHP
+3. Creating and maintaining SQL Database
+4. Dealing with SQL tables
 # Tools/Technology:
 1. PHP
 2. PHP My Admin
